@@ -27,14 +27,14 @@
 
 ```yaml
 name:       Bhanu Gupta
-role:       AI Security & Quality Engineer
+role:       AI Engineer Intern & AI Security Researcher
 location:   Auckland, New Zealand
 education:  Bachelor of IT — Otago Polytechnic Auckland (2024–2026)
-current:    Full-Stack Developer Intern @ AI Detectors Limited (May 2026–Present)
+current:    AI Engineer Intern @ AI Detectors Limited (Jun 2026–Present)
 
 specialisations:
   - AI Security (OWASP LLM Top 10, MITRE ATLAS, Adversarial ML)
-  - AI Test Automation (Playwright, Cypress, CI/CD)
+  - AI Model Testing & Evaluation (Playwright, Cypress, CI/CD)
   - ML Engineering (PyTorch, XGBoost, LSTM, SHAP)
   - Production AI Systems (FastAPI, AWS Bedrock, Docker)
 
@@ -206,10 +206,10 @@ highlights:
 
 <div align="center">
 
-| Role | Organisation | Period | Focus |
-|------|-------------|--------|-------|
-| Full-Stack Developer Intern | **AI Detectors Limited** | May 2026 – Present | FastAPI AI detection services, AWS Bedrock, React/Next.js dashboards, Docker deployment |
-| IoT Cyber Defense Externship | **Hydroficient Systems Ltd** | Mar – May 2026 | Threat modelling on IoT architectures, Python sensor telemetry analysis, attack surface mapping |
+| Role | Organisation | Period | Responsibilities |
+|------|-------------|--------|-----------------|
+| **AI Engineer Intern** | **AI Detectors Limited** | Jun 2026 – Present | AI model testing & evaluation · dataset preparation & annotation · automation workflows QA · prompt engineering · research assistance · documentation writing · backend & frontend support · user testing & feedback · product improvement |
+| IoT Cyber Defense Externship *(in progress)* | **Hydroficient Systems Ltd** | Mar 2026 – Present | Threat modelling on real IoT architectures · Python sensor telemetry analysis (HYDROLOGIC JSON data, Pandas) · attack surface mapping across sensors, gateways & cloud endpoints |
 
 </div>
 
@@ -275,4 +275,4 @@ highlights:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-</div>
+  </div>
