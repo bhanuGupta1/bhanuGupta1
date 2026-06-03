@@ -247,7 +247,9 @@ highlights:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=bhanuGupta1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=bhanuGupta1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" alt="Bhanu's GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuGupta1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" height="180"/>
 
 </div>
 
