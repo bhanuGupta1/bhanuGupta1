@@ -26,253 +26,251 @@
 ## About Me
 
 ```yaml
-name:       Bhanu Gupta
-role:       AI Engineer Intern & AI Security Researcher
-location:   Auckland, New Zealand
-education:  Bachelor of IT — Otago Polytechnic Auckland (2024–2026)
-current:    AI Engineer Intern @ AI Detectors Limited (Jun 2026–Present)
+name: Bhanu Gupta
+role: AI Engineer Intern & AI Security Researcher
+location: Auckland, New Zealand
+education: Bachelor of IT — Otago Polytechnic Auckland (2024–2026)
+current: AI Engineer Intern @ AI Detectors Limited (Jun 2026–Present)
 
 specialisations:
-  - AI Security (OWASP LLM Top 10, MITRE ATLAS, Adversarial ML)
-  - AI Model Testing & Evaluation (Playwright, Cypress, CI/CD)
-  - ML Engineering (PyTorch, XGBoost, LSTM, SHAP)
-  - Production AI Systems (FastAPI, AWS Bedrock, Docker)
+- AI Security (OWASP LLM Top 10, MITRE ATLAS, Adversarial ML)
+- AI Model Testing & Evaluation (Playwright, Cypress, CI/CD)
+- ML Engineering (PyTorch, XGBoost, LSTM, SHAP)
+- Production AI Systems (FastAPI, AWS Bedrock, Docker)
 
 highlights:
-  - Prompt Injection Defense Framework: 55 patterns, OWASP LLM01, live on Render
-  - Adversarial ML: FGSM/PGD from scratch in PyTorch, MITRE ATLAS mapped
-  - AT Delay Prophet: R² 0.866 on live GTFS-RT data, Streamlit + SHAP dashboard
-  - 87 Playwright tests across Chromium/Firefox/WebKit in 1.2 minutes
-  - Top Student Special Award | A+ in 11 of 14 papers
+- ProofHire Shield: B2B SaaS CV security platform — 385 tests, Stripe billing, live on Cloudflare Pages
+- Prompt Injection Defense Framework: 55 patterns, OWASP LLM01, live on Render
+- Adversarial ML: FGSM/PGD from scratch in PyTorch, MITRE ATLAS mapped
+- AT Delay Prophet: R² 0.866 on live GTFS-RT data, Streamlit + SHAP dashboard
+- 87 Playwright tests across Chromium/Firefox/WebKit in 1.2 minutes
+- Top Student Special Award | A+ in 11 of 14 papers
 ```
 
 ---
 
 ## AI Security Stack
 
-<div align="center">
+<details>
+  <summary><b>Threat Frameworks & Red Teaming</b></summary>
 
-### Threat Frameworks & Red Teaming
-![OWASP](https://img.shields.io/badge/OWASP%20LLM%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![MITRE ATLAS](https://img.shields.io/badge/MITRE%20ATLAS-FF0000?style=for-the-badge&logoColor=white)
-![Adversarial ML](https://img.shields.io/badge/Adversarial%20ML%20FGSM%2FPGD-8B0000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Prompt Injection](https://img.shields.io/badge/Prompt%20Injection%20Defense-6A0DAD?style=for-the-badge&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+  ![OWASP LLM Top 10](https://img.shields.io/badge/OWASP_LLM_Top_10-000?style=flat-square&logo=owasp&logoColor=white)
+  ![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-red?style=flat-square)
+  ![Adversarial ML](https://img.shields.io/badge/Adversarial_ML-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+  ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-55_Patterns-blueviolet?style=flat-square)
+  ![STRIDE](https://img.shields.io/badge/Threat_Modelling-STRIDE_%7C_CIA_Triad-blue?style=flat-square)
+  ![HackTheBox](https://img.shields.io/badge/HackTheBox-Practitioner-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-### AI & ML Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Claude API](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  </details>
 
-### Test Automation & QA
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  <details>
+    <summary><b>AI & ML Engineering</b></summary>
 
-### Cloud & Dev
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+    ![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=flat-square)
+    ![SHAP](https://img.shields.io/badge/SHAP-Explainability-yellow?style=flat-square)
+    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+    ![Gradio](https://img.shields.io/badge/Gradio-HuggingFace-orange?style=flat-square)
+    ![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?style=flat-square)
+    ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-</div>
+    </details>
 
----
+    <details>
+    <summary><b>Test Automation & QA</b></summary>
 
-## Featured Projects
+    ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+    ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+    ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Security-red?style=flat-square)
 
-### AI Security Projects
+    </details>
 
-<table>
-<tr>
-<td width="50%">
+    <details>
+    <summary><b>Cloud & Dev</b></summary>
 
-**[Prompt Injection Defense Framework](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)**
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+    ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+    ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+    ![HuggingFace](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-> OWASP LLM01 | FastAPI | Python | CI/CD
+    </details>
 
-- 55 attack patterns across 7 categories with compound risk scoring (0–100)
-- Shipped as FastAPI middleware, CLI tool, interactive browser demo, and reusable Python library
-- 78 tests across Python 3.10/3.11/3.12 via GitHub Actions matrix CI
-- Zero external deps on core detection engine
+    ---
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square)](https://ai-security-portfolio-bhanu.onrender.com)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)
+    ## Featured Projects
 
-</td>
-<td width="50%">
+    ### AI Security Projects
 
-**[Adversarial Attacks on Transport AI](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)**
+    ---
 
-> MITRE ATLAS | PyTorch | Gradio | Hugging Face
+    #### ProofHire Shield — B2B SaaS CV Security Platform
 
-- FGSM + PGD from scratch in pure PyTorch — STOP signs → SPEED LIMIT (ε ≤ 0.03)
-- 5 MITRE ATLAS technique mappings (AML.T0043, T0015, T0000, T0024)
-- Interactive Gradio dashboard: epsilon slider, before/after, live audit log
-- 52 CPU-only tests, no downloads, clean CI
+    > **Python · FastAPI · React 18 · TypeScript · Tailwind · Stripe · Clerk · Neon Postgres**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/BhanuGupta/adversarial-transport-attack)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)
+    AI-augmented CV security platform that detects **prompt injection attacks**, **PII leaks**, and **AI-generated content** in candidate CVs — purpose-built for recruiters using AI hiring tools. Competing directly with HireIQ (Apprento.io) in the B2B HR-tech security space.
 
-</td>
-</tr>
-</table>
+    - **Zero-LLM heuristic detection engine**: 8 injection pattern types (instruction override, role reassignment, delimiter attacks, encoded payloads, etc.), 12 PII categories, and AI-text classifier — plus Groq/Anthropic-backed 7-dimension recruiter assessment
+    - **385 automated tests**, Codex adversarial reviews at HIGH=0
+    - **Full-stack SaaS** with Stripe billing (Free/Pro tiers at $29/mo), Clerk JWT auth + org multi-tenancy, Neon Postgres + Alembic migrations (8 migrations), token-bucket rate limiting (30 anon / 300 Pro req/min), and atomic quota enforcement closing a TOCTOU race condition
+    - **Deployed end-to-end**: Cloudflare Pages (React 18 + Vite frontend) + HuggingFace Spaces Docker (FastAPI backend) + Neon Postgres; request ID middleware, structured JSON logging, GitHub Actions CI on every commit
 
-### ML Engineering & AI Applications
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-proofhire--shield.pages.dev-00D9FF?style=for-the-badge&logo=cloudflare&logoColor=white)](https://proofhire-shield.pages.dev)
+    [![GitHub](https://img.shields.io/badge/Repo-bhanuGupta1/Proofhire--shield-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/Proofhire-shield)
 
-<table>
-<tr>
-<td width="50%">
+    ---
 
-**[AT Delay Prophet — Auckland Transport ML](https://github.com/bhanuGupta1/at-delay-prophet)**
+    #### Prompt Injection Defense Framework (PR-01)
 
-> XGBoost | LSTM | SHAP | Streamlit | GTFS-RT
+    > **Python · FastAPI · AI Security · OWASP LLM01**
 
-- R² 0.866 on held-out test set — live GTFS-RT feed at 961 bus trips/poll
-- XGBoost + LSTM sequence model with SHAP explainability waterfall charts
-- Open-Meteo weather integration, rolling delay features, real production data
-- Addresses gaps named in May 2025 Auditor-General AT report
+    Detection, sanitization, and middleware for LLM prompt injection attacks. Addresses **OWASP LLM01** — the #1 vulnerability in production AI systems. Shipped as FastAPI middleware, interactive browser demo, CLI tool, and reusable Python library.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/BhanuGupta/at-delay-prophet)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/at-delay-prophet)
+    - **55 attack patterns** across 7 categories (direct override, persona injection, delimiter attacks, encoded attacks, indirect injection, context manipulation, jailbreak templates) with compound risk scoring (0–100)
+    - Zero external dependencies on the core detection engine; input sanitization pipeline, structured JSON logging, and alert thresholds
+    - **78 tests** across Python 3.10, 3.11, and 3.12 via GitHub Actions matrix CI
+    - Shipped as FastAPI middleware, CLI, and reusable library — all from one codebase deployed on Render
 
-</td>
-<td width="50%">
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-ai--security--portfolio--bhanu.onrender.com-00D9FF?style=for-the-badge&logo=render&logoColor=white)](https://ai-security-portfolio-bhanu.onrender.com)
+    [![GitHub](https://img.shields.io/badge/Repo-ai--security--portfolio--bhanu_(PR--01)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)
 
-**[GenAI Paper Review System](https://github.com/bhanuGupta1/paper-submission-system)**
+    ---
 
-> Claude API | Node.js | MCP | TF-IDF | MVC
+    #### Adversarial Attacks on Transport AI (PR-02)
 
-- Provider-agnostic LLM interface (swap model via environment variable)
-- Claude API for reviewer draft generation and abstract polishing
-- TF-IDF semantic reviewer matching, plagiarism scoring, AI-text screening (human-in-the-loop)
-- Five user roles: Author, Reviewer, Editor, Admin, Public Reader
+    > **Python · PyTorch · MITRE ATLAS · Gradio**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square)](https://paper-submission-system.onrender.com)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/paper-submission-system)
+    Demonstrates FGSM and PGD adversarial attacks on a 43-class traffic sign classifier. Imperceptible pixel perturbations (ε ≤ 0.03) cause reliable misclassification — **STOP signs classified as SPEED LIMIT**. Maps to MITRE ATLAS AML.T0043 (Craft Adversarial Data).
 
-</td>
-</tr>
-</table>
+    - **FGSM and PGD from scratch in pure PyTorch** — no wrapper libraries; AttackResult dataclass captures prediction, confidence drop, perturbation norm, and success flag
+    - **Interactive Gradio dashboard** on Hugging Face Spaces: epsilon slider, before/after comparison, live audit log, FGSM vs PGD sweep chart
+    - **5 MITRE ATLAS technique mappings** (AML.T0043, AML.T0015, AML.T0000, AML.T0024); 52 CPU-only tests, no downloads, clean CI
 
-### QA Engineering & Full-Stack
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/BhanuGupta/adversarial-transport-attack)
+    [![GitHub](https://img.shields.io/badge/Repo-ai--security--portfolio--bhanu_(PR--02)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/ai-security-portfolio-bhanu)
 
-<table>
-<tr>
-<td width="50%">
+    ---
 
-**[QA Portfolio — AI-Era Test Automation](https://github.com/bhanuGupta1/qa-portfolio-bhanu)**
+    ### ML Engineering & AI Applications
 
-> Playwright | Cypress | Postman | GitHub Actions | TypeScript
+    ---
 
-- 87 Playwright tests (TypeScript, POM) across Chromium/Firefox/WebKit — 1.2 min parallel
-- 24 Cypress E2E tests (JavaScript, POM) + Newman CI/CD integration
-- 18 Postman requests, 47 assertions — CRUD, auth chains, schema validation
-- Manual testing on live SEEK NZ: 14 test cases, 6 documented defects with severity + evidence
+    #### AT Delay Prophet — Auckland Transport ML
 
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/qa-portfolio-bhanu)
+    > **Python · XGBoost · LSTM · SHAP · Streamlit · GTFS-RT**
 
-</td>
-<td width="50%">
+    End-to-end machine learning pipeline predicting Auckland bus delays from live GTFS-RT feed data. Built to directly address issues the Auditor-General flagged in May 2025 about AT's manual disruption management.
 
-**[Wholesaler Inventory & Order System](https://github.com/bhanuGupta1/wholesaler-app)**
+    - **Live ingestion** of AT's GTFS-RT API at 961 bus trips per poll, with rolling delay features, Open-Meteo weather data, and time-of-day signals
+    - **XGBoost regression** (R² 0.866 on held-out test set, SHAP explainability) and **LSTM sequence model** (PyTorch) trained on real Auckland route history
+    - **Streamlit dashboard** with live delay map and SHAP waterfall charts — real production data, not simulated
 
-> React 18 | Firebase | Tailwind | Recharts | Vitest
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-HuggingFace_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/BhanuGupta/at-delay-prophet)
+    [![GitHub](https://img.shields.io/badge/Repo-at--delay--prophet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/at-delay-prophet)
 
-- Role-based auth (Admin, Manager, Business, User), real-time inventory CRUD, order workflows
-- QR code scanning, invoice generation, dual-theme UI, Recharts analytics
-- Vitest test coverage + selected to present at AIC Careers Expo
+    ---
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://wholesaler-app-841b7.web.app)
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhanuGupta1/wholesaler-app)
+    #### GenAI Paper Review System
 
-</td>
-</tr>
-</table>
+    > **Node.js · Express · Claude API · MCP · TF-IDF · MVC**
 
----
+    Redesigned academic submission platform into a GenAI-assisted decision support system across **five roles** (author, reviewer, editor, admin, public reader). Built on a provider-agnostic LLM interface so the model can be swapped via environment variable.
 
-## Experience & Externships
+    - **Provider-agnostic LLM interface** (swap model via env var); Claude API integration for reviewer draft generation and abstract polishing
+    - **TF-IDF semantic reviewer matching** (replacing random assignment), plagiarism similarity scoring, and AI-text screening — all advisory signals with human-in-the-loop oversight
+    - MVC scaffold, role-aware routing, bcrypt auth, multer file uploads, ExcelJS export across five user roles
 
-<div align="center">
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-paper--submission--system.onrender.com-00D9FF?style=for-the-badge&logo=render&logoColor=white)](https://paper-submission-system.onrender.com)
+    [![GitHub](https://img.shields.io/badge/Repo-paper--submission--system-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/paper-submission-system)
 
-| Role | Organisation | Period | Responsibilities |
-|------|-------------|--------|-----------------|
-| **AI Engineer Intern** | **AI Detectors Limited** | Jun 2026 – Present | AI model testing & evaluation · dataset preparation & annotation · automation workflows QA · prompt engineering · research assistance · documentation writing · backend & frontend support · user testing & feedback · product improvement |
-| IoT Cyber Defense Externship *(in progress)* | **Hydroficient Systems Ltd** | Mar 2026 – Present | Threat modelling on real IoT architectures · Python sensor telemetry analysis (HYDROLOGIC JSON data, Pandas) · attack surface mapping across sensors, gateways & cloud endpoints |
+    ---
 
-</div>
+    ### QA Engineering & Full-Stack
 
----
+    ---
 
-## Certifications & Credentials
+    #### QA Portfolio — AI-Era Test Automation
 
-<div align="center">
+    > **Playwright · Cypress · Postman · GitHub Actions · TypeScript**
 
-[![Anthropic MCP](https://img.shields.io/badge/Anthropic-Intro%20to%20MCP-CC785C?style=for-the-badge&logoColor=white)](https://verify.skilljar.com/c/cn2w779hhksy)
-[![Anthropic Claude API](https://img.shields.io/badge/Anthropic-Building%20with%20Claude%20API-CC785C?style=for-the-badge&logoColor=white)](https://verify.skilljar.com/c/6yc3eeyjc2d2)
-[![AWS GenAI](https://img.shields.io/badge/AWS-Generative%20AI%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://credly.com/badges/ae67df1c-57d7-4763-984a-55f188060e03)
-[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://credly.com/badges/82c5c626-8d5c-4e2d-88e2-caaf5cf2f55a)
-[![Postman](https://img.shields.io/badge/Postman-API%20Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://badges.parchment.com/public/assertions/TG0zfonFSV6wMAsO4CxRWQ)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Practitioner-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d15b5-69d8-7364-9318-8331d7e0f07e)
+    Comprehensive QA portfolio showcasing manual testing, API testing, and E2E automation — built to demonstrate production-level test engineering skills.
 
-**In Progress:** (ISC)² Certified in Cybersecurity · CompTIA Security+
+    - **87 Playwright tests** (TypeScript, POM) across Chromium/Firefox/WebKit — 1.2 min via parallel execution; GitHub Actions CI on every commit
+    - **24 Cypress E2E tests** (JavaScript, POM) + Newman CI/CD integration
+    - **18 Postman requests, 47 assertions** — CRUD, auth chains, schema validation
+    - **Manual testing on live SEEK NZ**: 14 test cases, 6 documented defects with severity, repro steps, and screenshot evidence
 
-</div>
+    [![GitHub](https://img.shields.io/badge/Repo-qa--portfolio--bhanu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/qa-portfolio-bhanu)
 
----
+    ---
 
-## GitHub Stats
+    #### Wholesaler Inventory & Order System
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuGupta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuGupta1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00d9ff" height="170" />
-</div>
+    > **React 18 · Firebase · Tailwind · Recharts · Vitest**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuGupta1&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" width="55%"/>
-</div>
+    Full-stack wholesale management platform with role-based access, real-time inventory, and analytics.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhanuGupta1&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ff6b35" width="95%"/>
-</div>
+    - **Role-based auth** (Admin, Manager, Business, User), real-time inventory CRUD, order workflows, and invoice generation
+    - **QR code scanning**, Recharts analytics dashboard, dual-theme UI, and Vitest test coverage
+    - **Selected to present** at the AIC Careers Expo
 
----
+    [![Live Demo](https://img.shields.io/badge/Live_Demo-wholesaler--app--841b7.web.app-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://wholesaler-app-841b7.web.app)
+    [![GitHub](https://img.shields.io/badge/Repo-wholesaler--app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/wholesaler-app)
 
-## GitHub Trophies
+    ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhanuGupta1&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5" width="95%"/>
-</div>
+    ## Experience & Externships
 
----
+    | Role | Organisation | Period | Responsibilities |
+    |------|-------------|--------|-----------------|
+    | **AI Engineer Intern** | AI Detectors Limited | Jun 2026 – Present | AI model testing & evaluation · dataset preparation & annotation · automation workflows QA · prompt engineering · research assistance · documentation writing · backend & frontend support · user testing & feedback · product improvement |
+    | **IoT Cyber Defense Externship** | Hydroficient Systems Ltd | Mar 2026 – May 2026 | Threat modelling on real IoT architectures · Python sensor telemetry analysis (HYDROLOGIC JSON data, Pandas) · attack surface mapping across sensors, gateways & cloud endpoints |
 
-<div align="center">
+    ---
 
-### Open to roles in: AI Security Engineering · AI/ML Testing · Red Teaming LLMs · AI Quality Assurance
+    ## Certifications & Credentials
 
-<img src="https://img.shields.io/badge/Available%20for-AI%20Security%20%26%20Testing%20Roles-00d9ff?style=for-the-badge&logoColor=white" />
+    | Certification | Issuer | Verify |
+    |--------------|--------|--------|
+    | Introduction to MCP (Model Context Protocol) | Anthropic | [verify](https://verify.skilljar.com/c/cn2w779hhksy) |
+    | Building with the Claude API | Anthropic | [verify](https://verify.skilljar.com/c/6yc3eeyjc2d2) |
+    | AWS Academy Generative AI Foundations | AWS | [verify](https://credly.com/badges/ae67df1c-57d7-4763-984a-55f188060e03) |
+    | AWS Academy Cloud Foundations | AWS | [verify](https://credly.com/badges/82c5c626-8d5c-4e2d-88e2-caaf5cf2f55a) |
+    | Postman API Fundamentals — Student Expert | Postman | [verify](https://badges.parchment.com/public/assertions/TG0zfonFSV6wMAsO4CxRWQ) |
 
-<br/><br/>
+    > **In Progress:** (ISC)² Certified in Cybersecurity · CompTIA Security+
 
-<a href="https://linkedin.com/in/bhanubengupta"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bhanugupta2001@gmail.com"><img src="https://img.shields.io/badge/Email-bhanugupta2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://medium.com/@bhanugupta1"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    ---
 
-</div>
+    ## GitHub Stats
 
----
+    <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhanuGupta1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuGupta1&layout=compact&langs_count=8&theme=tokyonight"/>
+
+    </div>
+
+    <div align="center">
+
+    [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhanuGupta1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/bhanuGupta1)
+
+    </div>
+
+    ---
+
+    <div align="center">
+
+    **Open to roles in:** AI Security Engineering · AI/ML Testing · Red Teaming LLMs · AI Quality Assurance
+
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+    </div>
+</p>
+</p>
