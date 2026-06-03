@@ -269,7 +269,7 @@ highlights:
 
 <div align="center">
 
-**Open to roles in:** AI Security Engineering · AI/ML Testing · Red Teaming LLMs · AI Quality Assurance
+**Open to roles in:** AI Engineering · AI Security Engineering · AI/ML Testing · Red Teaming LLMs · AI Quality Assurance
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
