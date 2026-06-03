@@ -51,56 +51,39 @@ highlights:
 
 ## AI Security Stack
 
-<details>
-  <summary><b>Threat Frameworks & Red Teaming</b></summary>
+**Threat Frameworks & Red Teaming**
 
-  ![OWASP LLM Top 10](https://img.shields.io/badge/OWASP_LLM_Top_10-000?style=flat-square&logo=owasp&logoColor=white)
-  ![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-red?style=flat-square)
-  ![Adversarial ML](https://img.shields.io/badge/Adversarial_ML-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-  ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-55_Patterns-blueviolet?style=flat-square)
-  ![STRIDE](https://img.shields.io/badge/Threat_Modelling-STRIDE_%7C_CIA_Triad-blue?style=flat-square)
-  ![HackTheBox](https://img.shields.io/badge/HackTheBox-Practitioner-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP_LLM_Top_10-000?style=flat-square&logo=owasp&logoColor=white)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-red?style=flat-square)
+![Adversarial ML](https://img.shields.io/badge/Adversarial_ML-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-55_Patterns-blueviolet?style=flat-square)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Practitioner-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
-  </details>
+**AI & ML Engineering**
 
-  <details>
-    <summary><b>AI & ML Engineering</b></summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-    ![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=flat-square)
-    ![SHAP](https://img.shields.io/badge/SHAP-Explainability-yellow?style=flat-square)
-    ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-    ![Gradio](https://img.shields.io/badge/Gradio-HuggingFace-orange?style=flat-square)
-    ![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-blueviolet?style=flat-square)
-    ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Test Automation & QA**
 
-    </details>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-    <details>
-    <summary><b>Test Automation & QA</b></summary>
+**Cloud & Dev**
 
-    ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-    ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-    ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-    ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Security-red?style=flat-square)
-
-    </details>
-
-    <details>
-    <summary><b>Cloud & Dev</b></summary>
-
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-    ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-    ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-    ![HuggingFace](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-    </details>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
     ---
 
