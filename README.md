@@ -247,15 +247,21 @@ highlights:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhanuGupta1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" alt="Bhanu's GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuGupta1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" height="180"/>
+[![Bhanu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanuGupta1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF)](https://github.com/bhanuGupta1)
 
 </div>
 
 <div align="center">
 
-[![Bhanu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhanuGupta1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF)](https://github.com/bhanuGupta1)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanuGupta1&theme=tokyonight" alt="Bhanu's GitHub Summary" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhanuGupta1&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhanuGupta1&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhanuGupta1&theme=tokyonight" alt="Stats" width="32%"/>
 
 </div>
 
