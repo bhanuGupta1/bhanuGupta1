@@ -225,6 +225,7 @@ highlights:
 | Role | Organisation | Period | Responsibilities |
 |------|-------------|--------|-----------------|
 | **AI Engineer Intern · Full-Stack** | AI Detectors Limited · Remote | Jun 2026 – Present | AI model & chatbot evaluation (rigorous red-team + Playwright MCP testing) · Next.js 14 / TypeScript frontend & full-stack engineering · authentication & route-architecture improvements · UI feature development for AI-review grading workflows · feature-flagged rollouts · replacing placeholder data with API-aware states · automated regression & visual testing · documentation |
+| **Full-Stack Software Engineering Intern** | Eccuity (formerly Gembot AI) · Hybrid | Jun 2026 – Present | GraphQL / Prisma backend + frontend feature work · server-computed metrics with lazy-loading · backend calculation fixes · rigorous Playwright MCP testing of AI model & chatbot behaviour · QA & product improvement |
 | **IoT Cyber Defense Externship** | Hydroficient Systems Ltd | Mar 2026 – May 2026 | Threat modelling on real IoT architectures · Python sensor telemetry analysis (HYDROLOGIC JSON data, Pandas) · attack surface mapping across sensors, gateways & cloud endpoints |
 
 ---
