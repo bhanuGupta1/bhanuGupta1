@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bhanu%20Gupta&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Security%20Engineer%20%7C%20AI%20Testing%20%7C%20ML%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bhanu%20Gupta&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Full-Stack%20Engineer%20%7C%20AI%20Platform%20%26%20Cloud%20%7C%20LLM%20Security&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=AI+Security+%26+Adversarial+ML+Engineer;OWASP+LLM+Top+10+%7C+MITRE+ATLAS+Practitioner;AI+Test+Automation+%7C+Playwright+%2B+Cypress;FastAPI+%2B+PyTorch+%2B+AWS+Bedrock;Building+Production+AI+Systems+from+Scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=AI+Full%2DStack+Engineer+%7C+Building+Production+AI+Systems;AI+Platform+%26+Cloud+Engineer+%7C+AWS+%2B+Docker+%2B+CI%2FCD;LLM+Security+%26+Adversarial+ML+%7C+OWASP+LLM+Top+10+%7C+MITRE+ATLAS;AI+Test+Automation+%7C+Playwright+%2B+Cypress;FastAPI+%2B+PyTorch+%2B+Next%2Ejs+%7C+Full%2DStack+from+Scratch)](https://git.io/typing-svg)
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=bhanuGupta1&label=Profile%20views&color=00d9ff&style=flat-square" />
@@ -27,16 +27,17 @@
 
 ```yaml
 name: Bhanu Gupta
-role: AI Engineer Intern & AI Security Researcher
+role: AI Full-Stack Engineer | AI Platform & LLM Security
 location: Auckland, New Zealand
 education: Bachelor of IT — Otago Polytechnic Auckland (2024–2026)
 current: AI Engineer Intern @ AI Detectors Limited (Jun 2026–Present)
 
 specialisations:
-- AI Security (OWASP LLM Top 10, MITRE ATLAS, Adversarial ML)
+- AI Full-Stack Engineering (Next.js, FastAPI, React, TypeScript)
+- AI Platform & Cloud Engineering (AWS, Docker, CI/CD, AWS Bedrock)
+- AI/LLM Security (OWASP LLM Top 10, MITRE ATLAS, Adversarial ML)
 - AI Model Testing & Evaluation (Playwright, Cypress, CI/CD)
 - ML Engineering (PyTorch, XGBoost, LSTM, SHAP)
-- Production AI Systems (FastAPI, AWS Bedrock, Docker)
 
 highlights:
 - ProofHire Shield: B2B SaaS CV security platform — 385 tests, Stripe billing, live on Cloudflare Pages
@@ -296,7 +297,7 @@ highlights:
 
 <div align="center">
 
-**Open to roles in:** AI Engineering · AI Security Engineering · AI/ML Testing · Red Teaming LLMs · AI Quality Assurance
+**Open to roles in:** AI Full-Stack Engineering · AI Platform & Cloud Engineering · AI/LLM Security · AI/ML Testing · Red Teaming LLMs
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
