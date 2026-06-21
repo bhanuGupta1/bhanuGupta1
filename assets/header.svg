@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Bhanu Gupta - AI Full-Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1418"/>
+      <stop offset="50%" stop-color="#11202a"/>
+      <stop offset="100%" stop-color="#0a2a3a"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0077b5" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1ee0c5" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <g opacity="0.9">
+    <path fill="url(#wave1)" d="M0 150 q 150 -40 300 0 t 300 0 t 300 0 t 300 0 V220 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#wave2)" d="M0 170 q 150 40 300 0 t 300 0 t 300 0 t 300 0 V220 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#ffffff">Bhanu Gupta</text>
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#9fe9ff" letter-spacing="1">AI Full-Stack Engineer &#160;|&#160; AI Platform &amp; Cloud &#160;|&#160; LLM Security</text>
+</svg>
