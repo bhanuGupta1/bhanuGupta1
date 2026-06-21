@@ -1,28 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Bhanu Gupta - AI Full-Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Bhanu Gupta - AI Full-Stack Engineer">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0c1418"/>
-      <stop offset="50%" stop-color="#11202a"/>
-      <stop offset="100%" stop-color="#0a2a3a"/>
+      <stop offset="0%" stop-color="#081230"/>
+      <stop offset="50%" stop-color="#0d2350"/>
+      <stop offset="100%" stop-color="#0a1c44"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#2f7dff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#2f7dff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#7dd3fc"/>
     </linearGradient>
     <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#0077b5" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.10"/>
     </linearGradient>
     <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#1ee0c5" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="220" fill="url(#bg)"/>
-  <g opacity="0.9">
-    <path fill="url(#wave1)" d="M0 150 q 150 -40 300 0 t 300 0 t 300 0 t 300 0 V220 H0 Z">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <g fill="#60a5fa" opacity="0.08">
+    <circle cx="40" cy="24" r="1.4"/><circle cx="40" cy="72" r="1.4"/><circle cx="40" cy="120" r="1.4"/><circle cx="40" cy="168" r="1.4"/><circle cx="40" cy="216" r="1.4"/><circle cx="88" cy="24" r="1.4"/><circle cx="88" cy="72" r="1.4"/><circle cx="88" cy="120" r="1.4"/><circle cx="88" cy="168" r="1.4"/><circle cx="88" cy="216" r="1.4"/><circle cx="136" cy="24" r="1.4"/><circle cx="136" cy="72" r="1.4"/><circle cx="136" cy="120" r="1.4"/><circle cx="136" cy="168" r="1.4"/><circle cx="136" cy="216" r="1.4"/><circle cx="184" cy="24" r="1.4"/><circle cx="184" cy="72" r="1.4"/><circle cx="184" cy="120" r="1.4"/><circle cx="184" cy="168" r="1.4"/><circle cx="184" cy="216" r="1.4"/><circle cx="232" cy="24" r="1.4"/><circle cx="232" cy="72" r="1.4"/><circle cx="232" cy="120" r="1.4"/><circle cx="232" cy="168" r="1.4"/><circle cx="232" cy="216" r="1.4"/><circle cx="280" cy="24" r="1.4"/><circle cx="280" cy="72" r="1.4"/><circle cx="280" cy="120" r="1.4"/><circle cx="280" cy="168" r="1.4"/><circle cx="280" cy="216" r="1.4"/><circle cx="328" cy="24" r="1.4"/><circle cx="328" cy="72" r="1.4"/><circle cx="328" cy="120" r="1.4"/><circle cx="328" cy="168" r="1.4"/><circle cx="328" cy="216" r="1.4"/><circle cx="376" cy="24" r="1.4"/><circle cx="376" cy="72" r="1.4"/><circle cx="376" cy="120" r="1.4"/><circle cx="376" cy="168" r="1.4"/><circle cx="376" cy="216" r="1.4"/><circle cx="424" cy="24" r="1.4"/><circle cx="424" cy="72" r="1.4"/><circle cx="424" cy="120" r="1.4"/><circle cx="424" cy="168" r="1.4"/><circle cx="424" cy="216" r="1.4"/><circle cx="472" cy="24" r="1.4"/><circle cx="472" cy="72" r="1.4"/><circle cx="472" cy="120" r="1.4"/><circle cx="472" cy="168" r="1.4"/><circle cx="472" cy="216" r="1.4"/><circle cx="520" cy="24" r="1.4"/><circle cx="520" cy="72" r="1.4"/><circle cx="520" cy="120" r="1.4"/><circle cx="520" cy="168" r="1.4"/><circle cx="520" cy="216" r="1.4"/><circle cx="568" cy="24" r="1.4"/><circle cx="568" cy="72" r="1.4"/><circle cx="568" cy="120" r="1.4"/><circle cx="568" cy="168" r="1.4"/><circle cx="568" cy="216" r="1.4"/><circle cx="616" cy="24" r="1.4"/><circle cx="616" cy="72" r="1.4"/><circle cx="616" cy="120" r="1.4"/><circle cx="616" cy="168" r="1.4"/><circle cx="616" cy="216" r="1.4"/><circle cx="664" cy="24" r="1.4"/><circle cx="664" cy="72" r="1.4"/><circle cx="664" cy="120" r="1.4"/><circle cx="664" cy="168" r="1.4"/><circle cx="664" cy="216" r="1.4"/><circle cx="712" cy="24" r="1.4"/><circle cx="712" cy="72" r="1.4"/><circle cx="712" cy="120" r="1.4"/><circle cx="712" cy="168" r="1.4"/><circle cx="712" cy="216" r="1.4"/><circle cx="760" cy="24" r="1.4"/><circle cx="760" cy="72" r="1.4"/><circle cx="760" cy="120" r="1.4"/><circle cx="760" cy="168" r="1.4"/><circle cx="760" cy="216" r="1.4"/><circle cx="808" cy="24" r="1.4"/><circle cx="808" cy="72" r="1.4"/><circle cx="808" cy="120" r="1.4"/><circle cx="808" cy="168" r="1.4"/><circle cx="808" cy="216" r="1.4"/><circle cx="856" cy="24" r="1.4"/><circle cx="856" cy="72" r="1.4"/><circle cx="856" cy="120" r="1.4"/><circle cx="856" cy="168" r="1.4"/><circle cx="856" cy="216" r="1.4"/><circle cx="904" cy="24" r="1.4"/><circle cx="904" cy="72" r="1.4"/><circle cx="904" cy="120" r="1.4"/><circle cx="904" cy="168" r="1.4"/><circle cx="904" cy="216" r="1.4"/><circle cx="952" cy="24" r="1.4"/><circle cx="952" cy="72" r="1.4"/><circle cx="952" cy="120" r="1.4"/><circle cx="952" cy="168" r="1.4"/><circle cx="952" cy="216" r="1.4"/><circle cx="1000" cy="24" r="1.4"/><circle cx="1000" cy="72" r="1.4"/><circle cx="1000" cy="120" r="1.4"/><circle cx="1000" cy="168" r="1.4"/><circle cx="1000" cy="216" r="1.4"/><circle cx="1048" cy="24" r="1.4"/><circle cx="1048" cy="72" r="1.4"/><circle cx="1048" cy="120" r="1.4"/><circle cx="1048" cy="168" r="1.4"/><circle cx="1048" cy="216" r="1.4"/><circle cx="1096" cy="24" r="1.4"/><circle cx="1096" cy="72" r="1.4"/><circle cx="1096" cy="120" r="1.4"/><circle cx="1096" cy="168" r="1.4"/><circle cx="1096" cy="216" r="1.4"/><circle cx="1144" cy="24" r="1.4"/><circle cx="1144" cy="72" r="1.4"/><circle cx="1144" cy="120" r="1.4"/><circle cx="1144" cy="168" r="1.4"/><circle cx="1144" cy="216" r="1.4"/><circle cx="1192" cy="24" r="1.4"/><circle cx="1192" cy="72" r="1.4"/><circle cx="1192" cy="120" r="1.4"/><circle cx="1192" cy="168" r="1.4"/><circle cx="1192" cy="216" r="1.4"/>
+  </g>
+
+  <g fill="#7dd3fc">
+    <circle cx="150" cy="60" r="2.4" opacity="0.55"><animate attributeName="cy" values="60;48;60" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0.18;0.55" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="78" r="2" opacity="0.5"><animate attributeName="cy" values="78;64;78" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.15;0.5" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="178" r="2.5" opacity="0.5"><animate attributeName="cy" values="178;166;178" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.2;0.5" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="182" r="2" opacity="0.5"><animate attributeName="cy" values="182;172;182" dur="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.18;0.5" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <path fill="url(#wave1)" d="M0 165 q 150 -42 300 0 t 300 0 t 300 0 t 300 0 V240 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="10s" repeatCount="indefinite"/>
     </path>
-    <path fill="url(#wave2)" d="M0 170 q 150 40 300 0 t 300 0 t 300 0 t 300 0 V220 H0 Z">
-      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+    <path fill="url(#wave2)" d="M0 185 q 150 42 300 0 t 300 0 t 300 0 t 300 0 V240 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="8s" repeatCount="indefinite"/>
     </path>
   </g>
-  <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="700" fill="#ffffff">Bhanu Gupta</text>
-  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="500" fill="#9fe9ff" letter-spacing="1">AI Full-Stack Engineer &#160;|&#160; AI Platform &amp; Cloud &#160;|&#160; LLM Security</text>
+
+  <text x="600" y="108" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="url(#nameGrad)" letter-spacing="1">Bhanu Gupta</text>
+  <rect x="468" y="128" width="264" height="2.5" rx="1.25" fill="url(#line)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="162" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#bae6fd" letter-spacing="2">AI Full-Stack Engineer &#160;&#183;&#160; AI Platform &amp; Cloud &#160;&#183;&#160; LLM Security</text>
 </svg>
