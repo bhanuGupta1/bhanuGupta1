@@ -250,9 +250,9 @@ highlights:
 
 | Role | Organisation | Period | Responsibilities |
 |------|-------------|--------|-----------------|
-| **Full-Stack Software Engineering Intern** | Eccuity (formerly Gembot AI) · Hybrid | Jun 2026 – Present | End-to-end feature delivery across a modern GraphQL / Prisma stack · performance-minded engineering on both server and client · rigorous evaluation and testing of AI models & chatbots · quality engineering and continuous product improvement |
-| **AI Engineer Intern · Full-Stack** | AI Detectors Limited · Remote | Jun 2026 – Present | Building and hardening production AI features across the full stack · adversarial testing and evaluation of AI models & chatbots · automation-driven quality engineering · shipping reliable, user-facing improvements in a fast-moving product team |
-| **IoT Cyber Defense Externship** | Hydroficient Systems Ltd | Mar 2026 – Present | Threat modelling on real IoT architectures · Python sensor telemetry analysis · attack-surface mapping across sensors, gateways & cloud endpoints |
+| **Full-Stack Software Engineering Intern** | Eccuity (formerly Gembot AI) · Auckland, NZ · Hybrid | Jun 2026 – Present | End-to-end feature delivery across a modern GraphQL / Prisma stack · performance-minded engineering on both server and client · rigorous evaluation and testing of AI models & chatbots · quality engineering and continuous product improvement |
+| **AI Engineer Intern · Full-Stack** | AI Detectors Limited · Auckland, NZ · Remote | Jun 2026 – Present | Building and hardening production AI features across the full stack · adversarial testing and evaluation of AI models & chatbots · automation-driven quality engineering · shipping reliable, user-facing improvements in a fast-moving product team |
+| **IoT Cyber Defense Externship** | Hydroficient Systems Ltd · Greater Toronto Area, ON, Canada · Remote | Mar 2026 – Present | Threat modelling on real IoT architectures · Python sensor telemetry analysis · attack-surface mapping across sensors, gateways & cloud endpoints |
 
 ---
 
