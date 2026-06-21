@@ -218,6 +218,32 @@ highlights:
 </tr>
 </table>
 
+### Relationship Intelligence & AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Relata — Relationship Intelligence OS](https://relata-app.onrender.com/)**
+
+> FastAPI | Groq | React | Prisma | Render
+
+- Turns community conversations into trusted, **human-approved** introductions with auditable confidence scoring
+- Injection-screened + PII-redacted signal capture, Groq extraction, human-in-the-loop Memory Inbox
+- Evidence-backed intro queue + impact reporting; pytest core-loop E2E on mock provider
+- Voice-capture feature shipped via PR
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-00D9FF?style=for-the-badge&logo=render&logoColor=white)](https://relata-app.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuGupta1/Relata)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## Experience & Externships
