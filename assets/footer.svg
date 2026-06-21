@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c1418"/>
+      <stop offset="50%" stop-color="#11202a"/>
+      <stop offset="100%" stop-color="#0a2a3a"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#1ee0c5" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#fbg)"/>
+  <path fill="url(#fwave)" d="M0 45 q 150 -30 300 0 t 300 0 t 300 0 t 300 0 V100 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>
